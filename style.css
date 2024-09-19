@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #8f6593 !important;
+}
+
+.navbar a{
+    color: #e3e4db;
+}
+
+.fondo{
+    background-color: #aea4bf;
+}
+
+.borde{
+    border-radius: 15px;
+}
