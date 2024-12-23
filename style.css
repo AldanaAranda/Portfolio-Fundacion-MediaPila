@@ -11,11 +11,11 @@
 }
 
 .image-hover {
-    transition: transform 0.3s ease; /* Hace la animación suave */
+    transition: transform 0.3s ease;
 }
 
 .image-hover:hover {
-    transform: scale(0.9); /* Reduce la imagen al 90% de su tamaño original */
+    transform: scale(0.9);
 }
 
 .borde{
