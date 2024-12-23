@@ -1,15 +1,37 @@
-.navbar{
-    background-color: #8f6593 !important;
-}
-
 .navbar a{
     color: #e3e4db;
 }
 
 .fondo{
+    background-color: #8f6593 !important;
+}
+
+.fondo2{
     background-color: #aea4bf;
+}
+
+.image-hover {
+    transition: transform 0.3s ease; /* Hace la animación suave */
+}
+
+.image-hover:hover {
+    transform: scale(0.9); /* Reduce la imagen al 90% de su tamaño original */
 }
 
 .borde{
     border-radius: 15px;
+}
+
+.btn{
+    background-color: #8f6593;
+    color: #e3e4db;
+}
+
+.btn:hover{
+    background-color: #1f0318;
+    color: white;
+}
+
+.fondo3{
+    background-color: #1f0318;
 }
